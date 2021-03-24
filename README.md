@@ -7,7 +7,7 @@ I'm a developer from Stockholm who is passionate about developing/building appli
 ## Facts about me:
 
 - :books: Currently studying in NTI High School.
-- 👨‍💻 Intern in <a target="_blank" href="https://inosida.se">Inosida</a>.
+- 👨‍💻 Intern in <a href="https://inosida.se">Inosida</a>.
 -  :wolf: I love huskies.
 - :musical_note: I love listening music.
 - :e-mail: You can reach me by sevcenko.olegas@gmail.com.
