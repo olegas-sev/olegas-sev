@@ -17,3 +17,5 @@ I'm a developer from Stockholm who is passionate about developing/building appli
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
 [![HTML5 Badge](https://img.shields.io/badge/-html5-%23E34F26.svg?style=for-the-badge&labelColor=black&logo=html5&logoColor=23E34F26)](#) 
 [![CSS3 Badge](https://img.shields.io/badge/-css3%20-%231572B6.svg?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)](#) 
+## Follow me on Twitter:
+<a href="https://twitter.com/webdevhusky" target="blank"><img src="https://img.shields.io/twitter/follow/webdevhusky?logo=twitter&style=for-the-badge" alt="nolimits4web" /></a>
